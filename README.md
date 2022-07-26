@@ -24,4 +24,4 @@ I'm a Research Engineer passionate about improving lives through the power of Ar
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=httpdaniel&hide=html,css,shaderlab,hlsl,c%23,jupyter%20notebook&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpdaniel&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpdaniel&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
