@@ -17,13 +17,9 @@ I'm a Research Engineer passionate about improving lives through the power of Ar
 🧰 Languages & Tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="60" height="60"/>
-&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="60" height="60"/>
-&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="60" height="60"/>
-&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" alt="Tensorflow" width="60" height="60"/>
-&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" alt="PyTorch" width="60" height="60"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="60" height="60"/>
