@@ -7,8 +7,7 @@ I'm a Research Engineer passionate about improving lives through the power of Ar
 📘 Research Interests
 
 * Deep Learning
-* Adaptation & Personalisation
-* User Modeling
+* Personalisation & Adaptation
 * Recommender Systems
 * Large Language Models
 
