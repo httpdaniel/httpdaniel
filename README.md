@@ -4,13 +4,13 @@ I'm a Research Engineer passionate about improving lives through the power of Ar
 
 ---
 
-📘 Research Areas
+📘 Research Interests
 
 * Deep Learning
 * Adaptation & Personalisation
 * User Modeling
 * Recommender Systems
-* Reinforcement Learning
+* Large Language Models
 
 ---
 
