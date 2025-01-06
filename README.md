@@ -9,6 +9,7 @@ I'm a Research Software Engineer passionate about improving lives through the po
 * Deep Learning
 * Personalisation & Adaptation
 * Recommender Systems
+* Large Language Models
 
 ---
 
